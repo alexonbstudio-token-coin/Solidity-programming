@@ -14,13 +14,13 @@
 
 pragma solidity ^0.6.2;
 
-import "./DividendPayingToken.sol";
-import "./SafeMath.sol";
-import "./IterableMapping.sol";
-import "./Ownable.sol";
-import "./IUniswapV2Pair.sol";
-import "./IUniswapV2Factory.sol";
-import "./IUniswapV2Router.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/DividendPayingToken.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/SafeMath.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/IterableMapping.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/Ownable.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/IUniswapV2Pair.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/IUniswapV2Factory.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/IUniswapV2Router.sol";
 
 
 contract ASCOINS is ERC20, Ownable {

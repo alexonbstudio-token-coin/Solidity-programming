@@ -2,10 +2,10 @@
 
 pragma solidity ^0.6.2;
 
-import "./IERC20.sol";
-import "./IERC20Metadata.sol";
-import "./Context.sol";
-import "./SafeMath.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/IERC20.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/IERC20Metadata.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/Context.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/SafeMath.sol";
 
 /**
  * @dev Implementation of the {IERC20} interface.

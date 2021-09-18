@@ -2,12 +2,12 @@
 
 pragma solidity ^0.6.2;
 
-import "./ERC20.sol";
-import "./SafeMath.sol";
-import "./SafeMathUint.sol";
-import "./SafeMathInt.sol";
-import "./DividendPayingTokenInterface.sol";
-import "./DividendPayingTokenOptionalInterface.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/ERC20.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/SafeMath.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/SafeMathUint.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/SafeMathInt.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/DividendPayingTokenInterface.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/DividendPayingTokenOptionalInterface.sol";
 
 
 /// @title Dividend-Paying Token

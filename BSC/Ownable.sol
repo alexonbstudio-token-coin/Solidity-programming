@@ -2,7 +2,7 @@ pragma solidity ^0.6.2;
 
 // SPDX-License-Identifier: MIT License
 
-import "./Context.sol";
+import "https://raw.githubusercontent.com/alexonbstudio-token-coin/Solidity-programming/main/BSC/Context.sol";
 
 contract Ownable is Context {
     address private _owner;
