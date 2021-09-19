@@ -5,8 +5,8 @@ contract ASCOIN {
     mapping(address => uint) public balances;
     mapping(address => mapping(address => uint)) public allowance;
     uint public totalSupply = 1000000000000000 * 10 ** 18;
-    string public name = "AlexonbStudio Token";
-    string public symbol = "ASCOIN";
+    string public name = "AlexonbStudio Token test";
+    string public symbol = "ASCOINTEST";
     uint public decimals = 18;
     
     event Transfer(address indexed from, address indexed to, uint value);
